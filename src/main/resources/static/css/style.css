@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    border: 0;
+}
+li{
+    list-style: none;
+}
+form{
+    border: 2px solid gray;
+    box-shadow: 2px 2px 5px gray;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+}
